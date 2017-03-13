@@ -1,0 +1,78 @@
+C:\Users\nwatson\documents\visual studio 2013\Projects\GerdauPowerDemandTracking\GerdauPowerDemandTracking\bin\GerdauPowerDemandTracking.dll.config
+C:\Users\nwatson\documents\visual studio 2013\Projects\GerdauPowerDemandTracking\GerdauPowerDemandTracking\bin\GerdauPowerDemandTracking.dll
+C:\Users\nwatson\documents\visual studio 2013\Projects\GerdauPowerDemandTracking\GerdauPowerDemandTracking\bin\GerdauPowerDemandTracking.pdb
+C:\Users\nwatson\documents\visual studio 2013\Projects\GerdauPowerDemandTracking\GerdauPowerDemandTracking\bin\Antlr3.Runtime.dll
+C:\Users\nwatson\documents\visual studio 2013\Projects\GerdauPowerDemandTracking\GerdauPowerDemandTracking\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\nwatson\documents\visual studio 2013\Projects\GerdauPowerDemandTracking\GerdauPowerDemandTracking\bin\Microsoft.AspNet.SignalR.SqlServer.dll
+C:\Users\nwatson\documents\visual studio 2013\Projects\GerdauPowerDemandTracking\GerdauPowerDemandTracking\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\nwatson\documents\visual studio 2013\Projects\GerdauPowerDemandTracking\GerdauPowerDemandTracking\bin\Microsoft.Owin.dll
+C:\Users\nwatson\documents\visual studio 2013\Projects\GerdauPowerDemandTracking\GerdauPowerDemandTracking\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\nwatson\documents\visual studio 2013\Projects\GerdauPowerDemandTracking\GerdauPowerDemandTracking\bin\Microsoft.Owin.Security.dll
+C:\Users\nwatson\documents\visual studio 2013\Projects\GerdauPowerDemandTracking\GerdauPowerDemandTracking\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\nwatson\documents\visual studio 2013\Projects\GerdauPowerDemandTracking\GerdauPowerDemandTracking\bin\Newtonsoft.Json.dll
+C:\Users\nwatson\documents\visual studio 2013\Projects\GerdauPowerDemandTracking\GerdauPowerDemandTracking\bin\Owin.dll
+C:\Users\nwatson\documents\visual studio 2013\Projects\GerdauPowerDemandTracking\GerdauPowerDemandTracking\bin\System.Web.Helpers.dll
+C:\Users\nwatson\documents\visual studio 2013\Projects\GerdauPowerDemandTracking\GerdauPowerDemandTracking\bin\System.Web.Mvc.dll
+C:\Users\nwatson\documents\visual studio 2013\Projects\GerdauPowerDemandTracking\GerdauPowerDemandTracking\bin\System.Web.Optimization.dll
+C:\Users\nwatson\documents\visual studio 2013\Projects\GerdauPowerDemandTracking\GerdauPowerDemandTracking\bin\System.Web.Razor.dll
+C:\Users\nwatson\documents\visual studio 2013\Projects\GerdauPowerDemandTracking\GerdauPowerDemandTracking\bin\System.Web.WebPages.Deployment.dll
+C:\Users\nwatson\documents\visual studio 2013\Projects\GerdauPowerDemandTracking\GerdauPowerDemandTracking\bin\System.Web.WebPages.dll
+C:\Users\nwatson\documents\visual studio 2013\Projects\GerdauPowerDemandTracking\GerdauPowerDemandTracking\bin\System.Web.WebPages.Razor.dll
+C:\Users\nwatson\documents\visual studio 2013\Projects\GerdauPowerDemandTracking\GerdauPowerDemandTracking\bin\WebGrease.dll
+C:\Users\nwatson\documents\visual studio 2013\Projects\GerdauPowerDemandTracking\GerdauPowerDemandTracking\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\nwatson\documents\visual studio 2013\Projects\GerdauPowerDemandTracking\GerdauPowerDemandTracking\bin\Microsoft.AspNet.SignalR.SqlServer.xml
+C:\Users\nwatson\documents\visual studio 2013\Projects\GerdauPowerDemandTracking\GerdauPowerDemandTracking\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\nwatson\documents\visual studio 2013\Projects\GerdauPowerDemandTracking\GerdauPowerDemandTracking\bin\Microsoft.Owin.xml
+C:\Users\nwatson\documents\visual studio 2013\Projects\GerdauPowerDemandTracking\GerdauPowerDemandTracking\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\nwatson\documents\visual studio 2013\Projects\GerdauPowerDemandTracking\GerdauPowerDemandTracking\bin\Microsoft.Owin.Security.xml
+C:\Users\nwatson\documents\visual studio 2013\Projects\GerdauPowerDemandTracking\GerdauPowerDemandTracking\bin\Newtonsoft.Json.xml
+C:\Users\nwatson\documents\visual studio 2013\Projects\GerdauPowerDemandTracking\GerdauPowerDemandTracking\bin\System.Web.Helpers.xml
+C:\Users\nwatson\documents\visual studio 2013\Projects\GerdauPowerDemandTracking\GerdauPowerDemandTracking\bin\System.Web.Mvc.xml
+C:\Users\nwatson\documents\visual studio 2013\Projects\GerdauPowerDemandTracking\GerdauPowerDemandTracking\bin\System.Web.Optimization.xml
+C:\Users\nwatson\documents\visual studio 2013\Projects\GerdauPowerDemandTracking\GerdauPowerDemandTracking\bin\System.Web.Razor.xml
+C:\Users\nwatson\documents\visual studio 2013\Projects\GerdauPowerDemandTracking\GerdauPowerDemandTracking\bin\System.Web.WebPages.xml
+C:\Users\nwatson\documents\visual studio 2013\Projects\GerdauPowerDemandTracking\GerdauPowerDemandTracking\bin\System.Web.WebPages.Deployment.xml
+C:\Users\nwatson\documents\visual studio 2013\Projects\GerdauPowerDemandTracking\GerdauPowerDemandTracking\bin\System.Web.WebPages.Razor.xml
+C:\Users\nwatson\documents\visual studio 2013\Projects\GerdauPowerDemandTracking\GerdauPowerDemandTracking\bin\Antlr3.Runtime.pdb
+C:\Users\nwatson\documents\visual studio 2013\Projects\GerdauPowerDemandTracking\GerdauPowerDemandTracking\obj\Debug\GerdauPowerDemandTracking.dll
+C:\Users\nwatson\documents\visual studio 2013\Projects\GerdauPowerDemandTracking\GerdauPowerDemandTracking\obj\Debug\GerdauPowerDemandTracking.pdb
+C:\Users\nwatson\documents\visual studio 2013\Projects\GerdauPowerDemandTracking\GerdauPowerDemandTracking\obj\Debug\GerdauPowerDemandTracking.csprojResolveAssemblyReference.cache
+C:\Projects\Gerdau\Gerdau_Sayreville\GerdauPowerDemandTracking\Web\GerdauPowerDemandTracking\bin\GerdauPowerDemandTracking.dll.config
+C:\Projects\Gerdau\Gerdau_Sayreville\GerdauPowerDemandTracking\Web\GerdauPowerDemandTracking\bin\GerdauPowerDemandTracking.dll
+C:\Projects\Gerdau\Gerdau_Sayreville\GerdauPowerDemandTracking\Web\GerdauPowerDemandTracking\bin\GerdauPowerDemandTracking.pdb
+C:\Projects\Gerdau\Gerdau_Sayreville\GerdauPowerDemandTracking\Web\GerdauPowerDemandTracking\bin\Antlr3.Runtime.dll
+C:\Projects\Gerdau\Gerdau_Sayreville\GerdauPowerDemandTracking\Web\GerdauPowerDemandTracking\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Projects\Gerdau\Gerdau_Sayreville\GerdauPowerDemandTracking\Web\GerdauPowerDemandTracking\bin\Microsoft.AspNet.SignalR.SqlServer.dll
+C:\Projects\Gerdau\Gerdau_Sayreville\GerdauPowerDemandTracking\Web\GerdauPowerDemandTracking\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Projects\Gerdau\Gerdau_Sayreville\GerdauPowerDemandTracking\Web\GerdauPowerDemandTracking\bin\Microsoft.Owin.dll
+C:\Projects\Gerdau\Gerdau_Sayreville\GerdauPowerDemandTracking\Web\GerdauPowerDemandTracking\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Projects\Gerdau\Gerdau_Sayreville\GerdauPowerDemandTracking\Web\GerdauPowerDemandTracking\bin\Microsoft.Owin.Security.dll
+C:\Projects\Gerdau\Gerdau_Sayreville\GerdauPowerDemandTracking\Web\GerdauPowerDemandTracking\bin\Microsoft.Web.Infrastructure.dll
+C:\Projects\Gerdau\Gerdau_Sayreville\GerdauPowerDemandTracking\Web\GerdauPowerDemandTracking\bin\Newtonsoft.Json.dll
+C:\Projects\Gerdau\Gerdau_Sayreville\GerdauPowerDemandTracking\Web\GerdauPowerDemandTracking\bin\Owin.dll
+C:\Projects\Gerdau\Gerdau_Sayreville\GerdauPowerDemandTracking\Web\GerdauPowerDemandTracking\bin\System.Web.Helpers.dll
+C:\Projects\Gerdau\Gerdau_Sayreville\GerdauPowerDemandTracking\Web\GerdauPowerDemandTracking\bin\System.Web.Mvc.dll
+C:\Projects\Gerdau\Gerdau_Sayreville\GerdauPowerDemandTracking\Web\GerdauPowerDemandTracking\bin\System.Web.Optimization.dll
+C:\Projects\Gerdau\Gerdau_Sayreville\GerdauPowerDemandTracking\Web\GerdauPowerDemandTracking\bin\System.Web.Razor.dll
+C:\Projects\Gerdau\Gerdau_Sayreville\GerdauPowerDemandTracking\Web\GerdauPowerDemandTracking\bin\System.Web.WebPages.Deployment.dll
+C:\Projects\Gerdau\Gerdau_Sayreville\GerdauPowerDemandTracking\Web\GerdauPowerDemandTracking\bin\System.Web.WebPages.dll
+C:\Projects\Gerdau\Gerdau_Sayreville\GerdauPowerDemandTracking\Web\GerdauPowerDemandTracking\bin\System.Web.WebPages.Razor.dll
+C:\Projects\Gerdau\Gerdau_Sayreville\GerdauPowerDemandTracking\Web\GerdauPowerDemandTracking\bin\WebGrease.dll
+C:\Projects\Gerdau\Gerdau_Sayreville\GerdauPowerDemandTracking\Web\GerdauPowerDemandTracking\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Projects\Gerdau\Gerdau_Sayreville\GerdauPowerDemandTracking\Web\GerdauPowerDemandTracking\bin\Microsoft.AspNet.SignalR.SqlServer.xml
+C:\Projects\Gerdau\Gerdau_Sayreville\GerdauPowerDemandTracking\Web\GerdauPowerDemandTracking\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Projects\Gerdau\Gerdau_Sayreville\GerdauPowerDemandTracking\Web\GerdauPowerDemandTracking\bin\Microsoft.Owin.xml
+C:\Projects\Gerdau\Gerdau_Sayreville\GerdauPowerDemandTracking\Web\GerdauPowerDemandTracking\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Projects\Gerdau\Gerdau_Sayreville\GerdauPowerDemandTracking\Web\GerdauPowerDemandTracking\bin\Microsoft.Owin.Security.xml
+C:\Projects\Gerdau\Gerdau_Sayreville\GerdauPowerDemandTracking\Web\GerdauPowerDemandTracking\bin\Newtonsoft.Json.xml
+C:\Projects\Gerdau\Gerdau_Sayreville\GerdauPowerDemandTracking\Web\GerdauPowerDemandTracking\bin\System.Web.Helpers.xml
+C:\Projects\Gerdau\Gerdau_Sayreville\GerdauPowerDemandTracking\Web\GerdauPowerDemandTracking\bin\System.Web.Mvc.xml
+C:\Projects\Gerdau\Gerdau_Sayreville\GerdauPowerDemandTracking\Web\GerdauPowerDemandTracking\bin\System.Web.Optimization.xml
+C:\Projects\Gerdau\Gerdau_Sayreville\GerdauPowerDemandTracking\Web\GerdauPowerDemandTracking\bin\System.Web.Razor.xml
+C:\Projects\Gerdau\Gerdau_Sayreville\GerdauPowerDemandTracking\Web\GerdauPowerDemandTracking\bin\System.Web.WebPages.xml
+C:\Projects\Gerdau\Gerdau_Sayreville\GerdauPowerDemandTracking\Web\GerdauPowerDemandTracking\bin\System.Web.WebPages.Deployment.xml
+C:\Projects\Gerdau\Gerdau_Sayreville\GerdauPowerDemandTracking\Web\GerdauPowerDemandTracking\bin\System.Web.WebPages.Razor.xml
+C:\Projects\Gerdau\Gerdau_Sayreville\GerdauPowerDemandTracking\Web\GerdauPowerDemandTracking\bin\Antlr3.Runtime.pdb
+C:\Projects\Gerdau\Gerdau_Sayreville\GerdauPowerDemandTracking\Web\GerdauPowerDemandTracking\obj\Debug\GerdauPowerDemandTracking.csprojResolveAssemblyReference.cache
+C:\Projects\Gerdau\Gerdau_Sayreville\GerdauPowerDemandTracking\Web\GerdauPowerDemandTracking\obj\Debug\GerdauPowerDemandTracking.dll
+C:\Projects\Gerdau\Gerdau_Sayreville\GerdauPowerDemandTracking\Web\GerdauPowerDemandTracking\obj\Debug\GerdauPowerDemandTracking.pdb

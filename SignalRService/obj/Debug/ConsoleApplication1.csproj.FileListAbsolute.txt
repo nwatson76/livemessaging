@@ -1,0 +1,44 @@
+C:\Users\nwatson\documents\visual studio 2013\Projects\GerdauPowerDemandTracking\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\nwatson\documents\visual studio 2013\Projects\GerdauPowerDemandTracking\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.manifest
+C:\Users\nwatson\documents\visual studio 2013\Projects\GerdauPowerDemandTracking\ConsoleApplication1\bin\Debug\ConsoleApplication1.application
+C:\Users\nwatson\documents\visual studio 2013\Projects\GerdauPowerDemandTracking\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\nwatson\documents\visual studio 2013\Projects\GerdauPowerDemandTracking\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\nwatson\documents\visual studio 2013\Projects\GerdauPowerDemandTracking\ConsoleApplication1\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+C:\Users\nwatson\documents\visual studio 2013\Projects\GerdauPowerDemandTracking\ConsoleApplication1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nwatson\documents\visual studio 2013\Projects\GerdauPowerDemandTracking\ConsoleApplication1\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+C:\Users\nwatson\documents\visual studio 2013\Projects\GerdauPowerDemandTracking\ConsoleApplication1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\nwatson\documents\visual studio 2013\Projects\GerdauPowerDemandTracking\ConsoleApplication1\obj\Debug\ConsoleApplication1.TrustInfo.xml
+C:\Users\nwatson\documents\visual studio 2013\Projects\GerdauPowerDemandTracking\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe.manifest
+C:\Users\nwatson\documents\visual studio 2013\Projects\GerdauPowerDemandTracking\ConsoleApplication1\obj\Debug\ConsoleApplication1.application
+C:\Users\nwatson\documents\visual studio 2013\Projects\GerdauPowerDemandTracking\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\nwatson\documents\visual studio 2013\Projects\GerdauPowerDemandTracking\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Projects\Gerdau\Gerdau_Sayreville\GerdauPowerDemandTracking\Web\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Projects\Gerdau\Gerdau_Sayreville\GerdauPowerDemandTracking\Web\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Projects\Gerdau\Gerdau_Sayreville\GerdauPowerDemandTracking\Web\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Projects\Gerdau\Gerdau_Sayreville\GerdauPowerDemandTracking\Web\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.manifest
+C:\Projects\Gerdau\Gerdau_Sayreville\GerdauPowerDemandTracking\Web\ConsoleApplication1\bin\Debug\ConsoleApplication1.application
+C:\Projects\Gerdau\Gerdau_Sayreville\GerdauPowerDemandTracking\Web\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Projects\Gerdau\Gerdau_Sayreville\GerdauPowerDemandTracking\Web\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Projects\Gerdau\Gerdau_Sayreville\GerdauPowerDemandTracking\Web\ConsoleApplication1\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+C:\Projects\Gerdau\Gerdau_Sayreville\GerdauPowerDemandTracking\Web\ConsoleApplication1\bin\Debug\Newtonsoft.Json.dll
+C:\Projects\Gerdau\Gerdau_Sayreville\GerdauPowerDemandTracking\Web\ConsoleApplication1\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+C:\Projects\Gerdau\Gerdau_Sayreville\GerdauPowerDemandTracking\Web\ConsoleApplication1\bin\Debug\Newtonsoft.Json.xml
+C:\Projects\Gerdau\Gerdau_Sayreville\GerdauPowerDemandTracking\Web\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Projects\Gerdau\Gerdau_Sayreville\GerdauPowerDemandTracking\Web\ConsoleApplication1\obj\Debug\ConsoleApplication1.TrustInfo.xml
+C:\Projects\Gerdau\Gerdau_Sayreville\GerdauPowerDemandTracking\Web\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe.manifest
+C:\Projects\Gerdau\Gerdau_Sayreville\GerdauPowerDemandTracking\Web\ConsoleApplication1\obj\Debug\ConsoleApplication1.application
+C:\temp\Signalr\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\temp\Signalr\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.manifest
+C:\temp\Signalr\ConsoleApplication1\bin\Debug\ConsoleApplication1.application
+C:\temp\Signalr\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\temp\Signalr\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\temp\Signalr\ConsoleApplication1\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+C:\temp\Signalr\ConsoleApplication1\bin\Debug\Newtonsoft.Json.dll
+C:\temp\Signalr\ConsoleApplication1\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+C:\temp\Signalr\ConsoleApplication1\bin\Debug\Newtonsoft.Json.xml
+C:\temp\Signalr\ConsoleApplication1\obj\Debug\ConsoleApplication1.TrustInfo.xml
+C:\temp\Signalr\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe.manifest
+C:\temp\Signalr\ConsoleApplication1\obj\Debug\ConsoleApplication1.application
+C:\temp\Signalr\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\temp\Signalr\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\temp\Signalr\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
