@@ -8,9 +8,21 @@ MVC5 Razor Partial View - HTML markup + AngularJS controllers to display data in
 </br>
 SQL Server - backplane for signalR where all messages are logged. Database script included.
 </br>
-
-
-
+<b>Setup</b>
+</br></br>
+1. Download the entire solution. Edit SignalRService/App.config and update the following:
+</br></br>
+<add key="UserName" value="enter user name" /></br>
+<add key="Password" value="enter password" /></br>
+<add key="Domain" value="enter domain name" /></br>
+</br>
+</br>
+2. Install the SQL Server database (LiveMessageTracking/Database/database.sql) to a SQL Server instance
+</br>
+3. Change the connection string variable in LiveMessageTracking/Startup.cs
+</br>
+4. Bobs your uncle!
+</br>
 <p align="center">
   <img src="https://github.com/nwatson76/livemessaging/blob/master/LiveMessage.png" />
 </p>
