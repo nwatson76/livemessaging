@@ -9,14 +9,13 @@ using System.Security.Principal;
 using System.Net;
 using System.Configuration;
 
-namespace ConsoleApplication1
+namespace SignalRService
 {
     class Program
     {
-
-
+        
         /// <summary>
-        /// Create a singnalR hub connection that will eventually be consumed by a web client 
+        /// Create a singnalR hub connection that will be consumed by a web client 
         /// </summary>
         static HubConnection hubConnection = new HubConnection("http://localhost:8100/signalr", useDefaultUrl: false);
         
@@ -47,7 +46,7 @@ namespace ConsoleApplication1
                 //create the signalR Hub
                 IHubProxy alphaProxy = hubConnection.CreateHubProxy("CommunicationHub");
                 
-                //start the  hub and wait for the hub to be started
+                //start the hub and wait for the hub to be started
                 hubConnection.Start().Wait();
 
                 //create an endless loop that will send signals to the signalR hub
